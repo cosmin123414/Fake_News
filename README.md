@@ -11,7 +11,7 @@ I built this wanting to learn more about machine learning and I'm sure it is far
 # Running the Program
 - Clone the repository or download the code
 - pip install the packages in requirements.txt in a vurtual environment
-- Run the Run.py file in your IDE using pyhton 3.10
+- Run the Classify_Article.py file in your IDE using pyhton 3.10
 - You will be prompted to paste an article and then you will get a result from each of the 3 classifiers.
 
 # Contact
