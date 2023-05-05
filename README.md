@@ -13,7 +13,6 @@ I built this wanting to learn more about machine learning and I'm sure it is far
 - pip install the packages in requirements.txt in a vurtual environment
 - Run the Run.py file in your IDE using pyhton 3.10
 - You will be prompted to paste an article and then you will get a result from each of the 3 classifiers.
-- Note that the program currently can't run in the windows terminal due to how it takes user input.
 
 # Contact
 Feel free to contact me at cosmin.coj@outlook.com for any questions, ideas, or suggestions.
